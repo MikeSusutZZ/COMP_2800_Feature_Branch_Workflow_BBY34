@@ -4,8 +4,8 @@ h1 {
 }
 font-family: Calibri, "Segoe UI", Arial, sans-serif;
 text-align: center;
-.content {
-margin: 0 auto;
-width: 800px;
-text-align: center;
-}
+.container {
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+    }
